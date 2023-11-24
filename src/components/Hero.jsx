@@ -17,11 +17,10 @@ const Hero = () => {
 						Moi, c&#x2019;est <span className='text-[#915eff]'>Laurent</span>
 					</h1>
 					<p className={`${styles.heroSubText} mt-2 text-white-100`}>
-						Je transforme vos idées en sites et applications web !<br className='sm:block hidden' />
 						Faites une première impression inoubliable <br className='sm:block hidden' />
 						avec un site web exceptionnel et à votre image.
 						<br className='sm:block hidden' />
-						<br className='sm:block hidden' />
+						<br className='sm:block ' />
 						<a href='#contact' className='text-[#915eff]'>
 							Contactez-moi
 						</a>{' '}
