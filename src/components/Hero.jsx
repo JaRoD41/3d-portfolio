@@ -21,8 +21,11 @@ const Hero = () => {
 						Faites une première impression inoubliable <br className='sm:block hidden' />
 						avec un site web exceptionnel et à votre image.
 						<br className='sm:block hidden' />
-            <br className='sm:block hidden' />
-						Contactez-moi dès aujourd’hui !
+						<br className='sm:block hidden' />
+						<a href='#contact' className='text-[#915eff]'>
+							Contactez-moi
+						</a>{' '}
+						dès aujourd’hui !
 					</p>
 				</div>
 			</div>
