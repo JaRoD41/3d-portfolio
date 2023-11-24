@@ -19,7 +19,10 @@ const Hero = () => {
 					<p className={`${styles.heroSubText} mt-2 text-white-100`}>
 						Je transforme vos idées en sites et applications web !<br className='sm:block hidden' />
 						Faites une première impression inoubliable <br className='sm:block hidden' />
-						avec un site web exceptionnel et à votre image !
+						avec un site web exceptionnel et à votre image.
+						<br className='sm:block hidden' />
+            <br className='sm:block hidden' />
+						Contactez-moi dès aujourd’hui !
 					</p>
 				</div>
 			</div>
